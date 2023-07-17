@@ -105,3 +105,53 @@
   transform: translateY(-50%);
   width: 85%;
 }
+
+/* expertise */
+.pb-90 {
+  padding-bottom: 90px;
+}
+.fs-32 {
+  font-size: 32px;
+}
+.card-body.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 0.8));
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  cursor: pointer;
+}
+
+.fs-24 {
+  font-size: 24px;
+}
+.overlay p {
+  display: none;
+  opacity: 0;
+  transition: 0.5s;
+}
+
+.overlay:hover p {
+  display: block;
+  opacity: 1;
+}
+
+.prev {
+  position: absolute;
+  left: 0;
+  z-index: 10;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.next {
+  position: absolute;
+  right: 0;
+  z-index: 10;
+  top: 50%;
+  transform: translateY(-50%);
+}
