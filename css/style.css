@@ -5,7 +5,11 @@
 .btn {
   border-radius: 0;
 }
-
+body,
+html {
+  overflow-x: hidden;
+  background-color: #f2f2f2;
+}
 .btn-orange {
   background-color: #ffb703;
   border-color: #ffb703;
@@ -284,4 +288,12 @@ input {
 }
 .aaa7a7 {
   color: #aaa7a7;
+}
+
+/* ----------------------- */
+/* faqs page */
+/* ----------------------- */
+
+.placeholder-dark::placeholder {
+  color: #a19fa1 !important;
 }
