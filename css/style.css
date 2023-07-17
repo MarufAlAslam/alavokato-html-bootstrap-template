@@ -250,3 +250,21 @@ input {
 .pb-100 {
   padding-bottom: 100px;
 }
+
+/* ----------------------- */
+/* blog page */
+/* ----------------------- */
+
+.py-100 {
+  padding: 100px 0;
+}
+
+.blog-hero {
+  background: url("../img/blog-hero.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.fs-42 {
+  font-size: 42px;
+}
