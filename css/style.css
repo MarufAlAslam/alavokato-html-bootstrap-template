@@ -297,3 +297,19 @@ input {
 .placeholder-dark::placeholder {
   color: #a19fa1 !important;
 }
+
+/* ----------------------- */
+/* contact page */
+/* ----------------------- */
+
+iframe {
+  width: 100%;
+  height: 100%;
+}
+.contact-input {
+  background-color: #dcdcdd;
+}
+
+.contact-input::placeholder {
+  color: #a19fa1 !important;
+}
