@@ -163,3 +163,20 @@
 .fs-40 {
   font-size: 40px;
 }
+
+/* get started */
+.get-started {
+  background-color: #171717;
+}
+.pt-70 {
+  padding-top: 70px;
+}
+
+.fs-48 {
+  font-size: 48px;
+}
+
+.shadow-text.end {
+  left: unset;
+  right: -30px;
+}
