@@ -75,3 +75,33 @@
   padding: 50px 0;
   background-color: rgba(0, 0, 0, 0.6);
 }
+
+/* contact cards */
+.py-90 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.shadow-text {
+  font-size: 140px;
+  color: rgb(217, 217, 217, 0.18);
+  font-weight: 600;
+  position: absolute;
+  top: -70px;
+  left: -30px;
+}
+
+.lh-1 {
+  line-height: 1;
+}
+
+.fs-20 {
+  font-size: 20px;
+}
+
+.position-card {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  transform: translateY(-50%);
+  width: 85%;
+}
