@@ -314,6 +314,45 @@ iframe {
   color: #a19fa1 !important;
 }
 
+/* ----------------------- */
+/* license requirement page */
+/* ----------------------- */
+
 .fa-circle {
   color: #ffb703;
+}
+
+.pt-36 {
+  padding-top: 36px;
+}
+.fs-62 {
+  font-size: 62px;
+}
+
+.py-60 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.bg-17 {
+  background-color: #171717;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.table-holder th,
+.table-holder td {
+  width: 25%;
+  border: 32px solid white;
+  padding: 30px;
+  vertical-align: middle;
+}
+
+.table-holder td {
+  background-color: #efefef;
+}
+
+.bg-orange {
+  background-color: #ffb703 !important;
 }
