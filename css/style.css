@@ -356,3 +356,63 @@ iframe {
 .bg-orange {
   background-color: #ffb703 !important;
 }
+
+.navbar-toggler {
+  outline: unset !important;
+  box-shadow: unset !important;
+}
+
+@media screen and (max-width: 767px) {
+  nav .btn-orange {
+    width: 100%;
+    margin: 5px 0;
+  }
+  .title {
+    font-size: 32px !important;
+  }
+  .fs-36 {
+    font-size: 26px;
+  }
+  .fs-36 {
+    font-size: 26px;
+  }
+  .items .d-flex {
+    justify-content: flex-start !important;
+  }
+  .position-card {
+    position: unset;
+    top: 50%;
+    right: 0;
+    transform: unset;
+    width: 100%;
+  }
+  .contact-cards .col-md-8 img {
+    display: none;
+  }
+  .fs-120 {
+    font-size: 35px;
+  }
+  .shadow-text {
+    font-size: 60px;
+  }
+
+  .fs-62 {
+    font-size: 50px;
+  }
+  .fs-42 {
+    font-size: 28px;
+  }
+  .fs-32 {
+    font-size: 26px;
+  }
+  .fs-22 {
+    font-size: 20px;
+  }
+  .table-holder {
+    overflow-x: auto;
+  }
+
+  .table {
+    width: 120%;
+  }
+}
