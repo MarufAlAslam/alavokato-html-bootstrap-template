@@ -313,3 +313,7 @@ iframe {
 .contact-input::placeholder {
   color: #a19fa1 !important;
 }
+
+.fa-circle {
+  color: #ffb703;
+}
