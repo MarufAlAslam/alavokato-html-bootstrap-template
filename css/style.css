@@ -15,6 +15,9 @@ html {
   border-color: #ffb703;
   color: white;
 }
+.logo {
+  width: 100px;
+}
 .nav-link {
   position: relative;
 }
